@@ -6,9 +6,9 @@
 
     "text": "برای دانلود و نصب جدیدترین نسخه همین الان از لینک زیر اقدام کنید",
 
-    "update": falce,
+    "update": true,
 
-    "link": "",
+    "link": "https://s9.uupload.ir/files/update/base.apk",
 
     "mode": true
 
